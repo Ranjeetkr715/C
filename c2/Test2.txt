@@ -1,0 +1,3 @@
+C:\Users\Suchit\Desktop\Test2.cpp	In function 'int main()':
+7	2	C:\Users\Suchit\Desktop\Test2.cpp	[Error] expected ',' or ';' before 'while'
+15	1	C:\Users\Suchit\Desktop\Test2.cpp	[Error] expected '}' at end of input
